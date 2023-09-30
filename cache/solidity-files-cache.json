@@ -2,7 +2,7 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "C:\\Users\\kartik\\Hardhat-Simple-storage\\contracts\\SimpleStorage.sol": {
-      "lastModificationDate": 1694846549860,
+      "lastModificationDate": 1696020884281,
       "contentHash": "4a8abfac667ef3e5890721838b73290d",
       "sourceName": "contracts/SimpleStorage.sol",
       "solcConfig": {
@@ -25,9 +25,6 @@
                 "ast"
               ]
             }
-          },
-          "metadata": {
-            "useLiteralContent": false
           }
         }
       },
